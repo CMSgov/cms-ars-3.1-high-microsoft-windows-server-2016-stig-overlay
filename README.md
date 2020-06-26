@@ -102,17 +102,17 @@ To report a bug or feature request, please open an [issue](https://github.com/CM
 
 This project is licensed under the terms of the Apache 2.0 license excepted as noted in [LICENSE.MD](https://github.com/mitre/project/blob/master/LICENSE.md).
 
-### NOTICE 1
+### NOTICE
 
 © 2019 The MITRE Corporation.  
 
 Approved for Public Release; Distribution Unlimited. Case Number 18-3678.  
 
-### NOTICE 2
+### NOTICE
 
 MITRE hereby grants express written permission to use, reproduce, distribute, modify, and otherwise leverage this software to the extent permitted by the licensed terms provided in the LICENSE.md file included with this project.
 
-### NOTICE 3
+### NOTICE
 
 This software was produced for the U. S. Government under Contract Number HHSM-500-2012-00008I, and is subject to Federal Acquisition Regulation Clause 52.227-14, Rights in Data-General.  
 
@@ -120,6 +120,6 @@ No other use other than that granted to the U. S. Government, or to those acting
 
 For further information, please contact The MITRE Corporation, Contracts Management Office, 7515 Colshire Drive, McLean, VA  22102-7539, (703) 983-6000.  
 
-### NOTICE 4
+### NOTICE
 
 DISA STIGs are published by DISA IASE, see: [https://public.cyber.mil/privacy-security/](https://public.cyber.mil/privacy-security/).
